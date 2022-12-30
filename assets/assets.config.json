@@ -1,0 +1,80 @@
+{
+  "downarrow.png": {
+    "mime": "image/png"
+  },
+  "shoppingcart.png": {
+    "mime": "image/png"
+  },
+  "next.png": {
+    "mime": "image/png"
+  },
+  "right-arrow.png": {
+    "mime": "image/png"
+  },
+  "personImage.jpg": {
+    "mime": "image/jpeg"
+  },
+  "firstLogo.png": {
+    "mime": "image/png"
+  },
+  "secondLogo.png": {
+    "mime": "image/png"
+  },
+  "thirdLogo.png": {
+    "mime": "image/png"
+  },
+  "fourthLogo.png": {
+    "mime": "image/png"
+  },
+  "firstDivLogo.svg": {
+    "mime": "image/svg+xml"
+  },
+  "secondDivLogo.svg": {
+    "mime": "image/svg+xml"
+  },
+  "thirdDivLogo.svg": {
+    "mime": "image/svg+xml"
+  },
+  "rightArrow.png": {
+    "mime": "image/png"
+  },
+  "firstAsset.png": {
+    "mime": "image/png"
+  },
+  "secondAsset.png": {
+    "mime": "image/png"
+  },
+  "thirdAsset.png": {
+    "mime": "image/png"
+  },
+  "fourthAsset.png": {
+    "mime": "image/png"
+  },
+  "cornerArrow.svg": {
+    "mime": "image/svg+xml"
+  },
+  "firstWorkLogo.svg": {
+    "mime": "image/svg+xml"
+  },
+  "secondWorkLogo.svg": {
+    "mime": "image/svg+xml"
+  },
+  "thirdWorkLogo.svg": {
+    "mime": "image/svg+xml"
+  },
+  "personImageSecond.jpg": {
+    "mime": "image/jpeg"
+  },
+  "markLogo.svg": {
+    "mime": "image/svg+xml"
+  },
+  "divOne.png": {
+    "mime": "image/png"
+  },
+  "divTwo.png": {
+    "mime": "image/png"
+  },
+  "divThree.png": {
+    "mime": "image/png"
+  }
+}

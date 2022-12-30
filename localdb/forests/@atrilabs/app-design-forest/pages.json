@@ -1,0 +1,10 @@
+{
+  "home": {
+    "name": "Home",
+    "route": "/"
+  },
+  "74fe7375-3dab-4803-8301-b1d9abaaedbc": {
+    "name": "secpage",
+    "route": "/secpage"
+  }
+}
